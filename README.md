@@ -53,6 +53,12 @@ This line just simply runs the tick function in the game so that the music progr
 
 **And finally paste the ouput of the website into your tick.mcfunction file.**
 
+> [!Note]
+> **You can also simply run the main.py python script locally to have the file placed into the correct place automatically.**
+> 
+> You will still need to create the correct folder structure. Select your file on line 69 below the "try:" function. The script assumes that you are on MacOS, but if you are not you can change the directory at the top.
+
+
 Now you just need to run a few commands in game to start.
 
 First:
